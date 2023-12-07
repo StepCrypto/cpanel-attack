@@ -96,48 +96,4 @@ If the tool fails, follow these steps:
 3. Submit the screenshot and explain 
    your problem with that error
 
-</details>
-
----
-
-**Repository Views** ![Views](https://profile-counter.glitch.me/AdminHack/count.svg)
-
-## Donate
-
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AdminHack-yellow?style=for-the-badge&logo=github"></a>
-
-## Screenshot
-
-#### here you can see a screenshot of AdminHack
-<br>
-<p align="center">
-<img width="53.0%" src="src/IMG_20210809_124540.jpg"/> 
-<img width="44.5%" src="src/IMG_20210814_122526.jpg"/>
-</p>
-
-## Find Me 
-[![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
-[![Github](https://img.shields.io/badge/X-MishaKorzhik-blue?style=for-the-badge&logo=x)](https://twitter.com/MishaKorzhik)
-[![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
-
-###### By mishakorzhik: Report bug: developer.mishakorzhik@gmail.com
-
-## I recommend watching
-
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a> <br>
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
-
-## Supporters
-[![Stargazers repo roster for @mishakorzik/AdminHack](https://reporoster.com/stars/mishakorzik/AdminHack)](https://github.com/mishakorzik/AdminHack/stargazers)
-[![Forkers repo roster for @mishakorzik/AdminHack](https://reporoster.com/forks/mishakorzik/AdminHack)](https://github.com/mishakorzik/AdminHack/members)
 
